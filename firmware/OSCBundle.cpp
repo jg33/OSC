@@ -25,6 +25,7 @@
 
 #include "OSCBundle.h"
 #include <stdlib.h>
+#include "Print.h"
 
  /*=============================================================================
 	CONSTRUCTORS / DESTRUCTOR
