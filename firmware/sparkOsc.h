@@ -1,3 +1,4 @@
+#include "application.h"
 #include "OSCMessage.h"
 #include "OSCBundle.h"
 #include "OSCBoards.h"
